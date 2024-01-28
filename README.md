@@ -1,0 +1,2 @@
+•	Online Fortune
+Online Fortune is a platform which not only allow customers to purchase their products but also allow them to try their luck to get that product with less money. The more their put their money in the product the more odds they have in winning it. It should be noted that online shop gets no more profit from this process and the only profit they get Is from selling the products so it’s not near to any kind of lottery or something. More over the site try to provide some feature for customers to handle the stop loss and limit loss.  
